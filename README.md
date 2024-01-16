@@ -2,7 +2,7 @@
 
 ## Description
 
-Idea Station is an app for quick frictionless ideation with a team. No clunky setup required. A user creates a new room with the click of a button, then shares the unique link via a qr code. Everyone can add ideas which update across all users in real time. Then users can vote for the ideas they like, with the highest rated ideas rising to the top. Ideas and voting are anonymous to take away the pressure of judgement, encouraging freer ideation.
+Brainstorm App is an app for quick frictionless ideation with a team. No clunky setup required. A user creates a new room with the click of a button, then shares the unique link via a qr code. Everyone can add ideas which update across all users in real time. Then users can vote for the ideas they like, with the highest rated ideas rising to the top. Ideas and voting are anonymous to take away the pressure of judgement, encouraging freer ideation.
 
 **Created by Michael Abrahams, Diana Alokhina, Dennis Corsi, Omar Mirza, and Andrew Sobottka**
 
